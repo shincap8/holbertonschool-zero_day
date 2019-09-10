@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-Repository to learn how to use (vagrant-git-emacs-vi) through projects
+This file is mandatory in all Holberton School projects
